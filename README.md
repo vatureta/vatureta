@@ -1,4 +1,10 @@
 ## Hi there 👋
+- 🔭 I’m currently working on my PhD Thesis titled "Exploring Spatiotemporal Vector Autoregressive VAR1 models and Deep Learning algorithms for Radar Nowcasting
+- 🌱 I’m currently learning about Physics Informed Neural Networks
+- 👯 I’m looking to collaborate on applications of statistics, data science and deep learning in industry and academia
+- ⚡ Fun fact: I have visited 15 countries 🌍 and I'm training to run a marathon in under 4 hours 🏃‍♀️‍➡️
+  
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3660--950X-green)](https://orcid.org/0000-0002-3660-950X)
 
 <!--
 **vatureta/vatureta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
